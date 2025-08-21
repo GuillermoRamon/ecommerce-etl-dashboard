@@ -1,0 +1,251 @@
+code,category_code,name,supplier,unit_price
+P00001,C001,Electronics Model 4,Wright Inc,513.91
+P00002,C002,Clothing Model 95,"Payne, Ryan and Brooks",18.95
+P00003,C005,Books Model 12,Reed and Sons,31.08
+P00004,C001,Electronics Model 28,Warner-Palmer,197.31
+P00005,C005,Books Model 26,"Nicholls, Harvey and Woodward",39.39
+P00006,C004,Home Model 29,Griffin Inc,156.61
+P00007,C001,Electronics Model 98,"Lee, Marsden and Evans",580.57
+P00008,C003,Sports Model 36,Dixon-Bennett,53.96
+P00009,C003,Sports Model 14,Nelson Group,34.59
+P00010,C003,Sports Model 78,Byrne-Austin,75.05
+P00011,C004,Home Model 69,"Powell, Morris and Rowe",51.62
+P00012,C001,Electronics Model 71,Bond Inc,237.82
+P00013,C003,Sports Model 74,"Oliver, Collins and Palmer",58.11
+P00014,C002,Clothing Model 99,Richardson PLC,34.86
+P00015,C002,Clothing Model 13,Harper-Atkinson,44.86
+P00016,C003,Sports Model 21,Gray-Buckley,101.79
+P00017,C003,Sports Model 90,"Watson, Preston and Bell",248.93
+P00018,C005,Books Model 82,Shaw-Holden,12.82
+P00019,C002,Clothing Model 60,Cunningham Group,47.22
+P00020,C005,Books Model 29,"Carr, Davison and Kelly",38.38
+P00021,C001,Electronics Model 30,"Patel, Lyons and Price",597.41
+P00022,C004,Home Model 35,"Naylor, Fox and Bailey",30.76
+P00023,C005,Books Model 92,Bruce-Smith,19.71
+P00024,C004,Home Model 83,Mann-Bates,159.6
+P00025,C002,Clothing Model 96,"Gibson, Ahmed and Cook",60.94
+P00026,C005,Books Model 55,Hall-Gardiner,46.83
+P00027,C002,Clothing Model 18,Thompson Group,55.11
+P00028,C001,Electronics Model 15,Robinson LLC,138.36
+P00029,C004,Home Model 77,Lloyd-Howard,28.28
+P00030,C004,Home Model 68,Kerr-Davis,93.19
+P00031,C001,Electronics Model 88,Rees Inc,523.11
+P00032,C005,Books Model 97,"Smith, Wright and Bibi",17.36
+P00033,C001,Electronics Model 38,Davies LLC,325.67
+P00034,C003,Sports Model 65,"Hodgson, Saunders and Mitchell",202.13
+P00035,C001,Electronics Model 81,"Pritchard, McDonald and Wallace",241.54
+P00036,C005,Books Model 26,"Campbell, Talbot and Scott",11.97
+P00037,C005,Books Model 100,Pritchard Inc,50.51
+P00038,C005,Books Model 42,"Ward, Holmes and Davis",26.65
+P00039,C003,Sports Model 40,Thomas-Shepherd,70.54
+P00040,C005,Books Model 11,"Cole, Moore and Clark",8.44
+P00041,C001,Electronics Model 98,Sykes Inc,376.45
+P00042,C004,Home Model 71,King LLC,63.45
+P00043,C005,Books Model 55,Wallace Inc,52.66
+P00044,C002,Clothing Model 92,"Barker, Phillips and Greenwood",40.44
+P00045,C003,Sports Model 57,Stone-Perry,234.96
+P00046,C002,Clothing Model 29,Mills-Taylor,14.11
+P00047,C005,Books Model 30,"Fry, Day and Shaw",30.9
+P00048,C001,Electronics Model 30,Ward-Fitzgerald,83.38
+P00049,C003,Sports Model 10,"Bates, Thomas and Williams",137.42
+P00050,C004,Home Model 28,"Wall, Johnson and Adams",195.12
+P00051,C005,Books Model 74,King-Lamb,27.74
+P00052,C004,Home Model 25,Rogers and Sons,39.75
+P00053,C003,Sports Model 55,"Dobson, Jones and Hutchinson",119.16
+P00054,C001,Electronics Model 87,"Bibi, Green and Watson",476.75
+P00055,C001,Electronics Model 52,Jennings and Sons,534.25
+P00056,C001,Electronics Model 32,"Allen, Edwards and Cooper",169.12
+P00057,C002,Clothing Model 55,Lawrence Inc,26.16
+P00058,C001,Electronics Model 57,"Weston, Parker and Smith",591.05
+P00059,C001,Electronics Model 7,"Stephens, Mitchell and Williams",470.93
+P00060,C001,Electronics Model 12,Power-Mitchell,670.55
+P00061,C002,Clothing Model 53,"Hussain, Dixon and Newton",53.6
+P00062,C004,Home Model 8,Allan LLC,59.97
+P00063,C004,Home Model 34,Franklin-Jackson,332.15
+P00064,C003,Sports Model 55,Burns-Black,190.05
+P00065,C005,Books Model 85,Jones-McCarthy,37.39
+P00066,C003,Sports Model 28,"Wilkinson, Walker and Wright",255.24
+P00067,C005,Books Model 8,Clayton-Smith,38.36
+P00068,C005,Books Model 62,White-Watson,29.42
+P00069,C002,Clothing Model 8,"Powell, Watkins and Stone",96.42
+P00070,C002,Clothing Model 9,Smith Group,66.79
+P00071,C002,Clothing Model 52,"Edwards, Hobbs and O'Brien",20.96
+P00072,C002,Clothing Model 75,Frost-Edwards,66.38
+P00073,C004,Home Model 85,Coles PLC,206.49
+P00074,C003,Sports Model 27,Lowe LLC,175.78
+P00075,C003,Sports Model 51,Woods-Norton,46.16
+P00076,C004,Home Model 41,"Dixon, Mann and Powell",337.91
+P00077,C001,Electronics Model 59,Holden Inc,451.63
+P00078,C001,Electronics Model 10,"Lamb, Day and Barton",394.54
+P00079,C002,Clothing Model 45,Cook-Shaw,96.53
+P00080,C003,Sports Model 37,"Stevenson, Duffy and Smith",53.91
+P00081,C003,Sports Model 79,Harris Group,264.89
+P00082,C005,Books Model 2,"Ward, Turner and Walton",36.5
+P00083,C001,Electronics Model 18,O'Neill and Sons,224.48
+P00084,C005,Books Model 20,"Jones, Wood and Stewart",17.56
+P00085,C003,Sports Model 27,Stokes Ltd,189.99
+P00086,C005,Books Model 63,"Harris, Curtis and Dawson",17.03
+P00087,C001,Electronics Model 12,Cook-Arnold,472.43
+P00088,C001,Electronics Model 1,Mellor Ltd,251.51
+P00089,C003,Sports Model 21,Cunningham-Smith,197.85
+P00090,C004,Home Model 72,Jordan-Fox,9.82
+P00091,C002,Clothing Model 70,"Gibson, Carter and Johnson",11.99
+P00092,C005,Books Model 19,Pope Group,23.78
+P00093,C003,Sports Model 6,Goddard-Campbell,229.09
+P00094,C002,Clothing Model 86,"Wright, Roberts and Chapman",19.06
+P00095,C004,Home Model 80,"Morris, Pearce and Barber",273.75
+P00096,C002,Clothing Model 21,"Thomas, Williams and Stanley",105.29
+P00097,C004,Home Model 4,"Fox, Brown and Miller",71.02
+P00098,C004,Home Model 86,Chadwick-Clayton,311.01
+P00099,C003,Sports Model 21,Ross-Davies,200.12
+P00100,C001,Electronics Model 61,Adams-Matthews,194.61
+P00101,C004,Home Model 45,Clark-Clements,114.32
+P00102,C002,Clothing Model 29,"Evans, Davey and Johnson",10.63
+P00103,C003,Sports Model 36,Williams-Harrison,237.98
+P00104,C003,Sports Model 45,Wilson Inc,170.38
+P00105,C005,Books Model 43,Bond-Robertson,47.4
+P00106,C003,Sports Model 23,Bates-Foster,164.6
+P00107,C001,Electronics Model 14,Cook-Greenwood,426.09
+P00108,C003,Sports Model 56,"Watkins, Jones and Bray",163.55
+P00109,C004,Home Model 74,Taylor-Robinson,68.51
+P00110,C004,Home Model 1,Thomas-Morris,189.92
+P00111,C002,Clothing Model 47,Clarke PLC,52.22
+P00112,C003,Sports Model 80,Brown-Connor,94.05
+P00113,C003,Sports Model 65,Cook-Marshall,88.92
+P00114,C004,Home Model 90,"Fowler, Rees and Yates",103.78
+P00115,C004,Home Model 86,"Campbell, Spencer and Thompson",333.47
+P00116,C002,Clothing Model 79,Evans-Crawford,62.57
+P00117,C001,Electronics Model 39,John Group,229.1
+P00118,C005,Books Model 78,"Smith, Smith and Potts",35.55
+P00119,C004,Home Model 87,Scott-Burns,79.63
+P00120,C002,Clothing Model 85,Watkins Group,16.84
+P00121,C005,Books Model 43,"Byrne, Bailey and Taylor",9.22
+P00122,C002,Clothing Model 87,Jenkins LLC,39.59
+P00123,C002,Clothing Model 4,"Read, Davies and Khan",13.75
+P00124,C005,Books Model 99,Rose-Allan,7.77
+P00125,C005,Books Model 25,Burke-Smith,38.27
+P00126,C004,Home Model 32,Robson-Dale,58.36
+P00127,C001,Electronics Model 100,Brown-Wilkinson,310.51
+P00128,C005,Books Model 60,Griffiths-Barnes,6.58
+P00129,C001,Electronics Model 59,"West, Walker and Atkins",130.04
+P00130,C005,Books Model 72,Rogers Group,34.32
+P00131,C004,Home Model 79,"Wells, Booth and Henderson",296.08
+P00132,C004,Home Model 71,"Miles, Watson and Rhodes",153.62
+P00133,C004,Home Model 58,Davis Inc,92.94
+P00134,C003,Sports Model 99,Morgan Group,205.56
+P00135,C002,Clothing Model 36,"Martin, Burke and Naylor",51.88
+P00136,C002,Clothing Model 35,"Harper, Taylor and Daly",42.44
+P00137,C001,Electronics Model 18,Clarke LLC,140.25
+P00138,C002,Clothing Model 91,Clarke Group,28.92
+P00139,C003,Sports Model 70,Harding Inc,122.95
+P00140,C004,Home Model 50,Pickering-Griffiths,318.2
+P00141,C001,Electronics Model 98,Clarke PLC,418.18
+P00142,C003,Sports Model 39,"Sykes, James and Clark",206.94
+P00143,C004,Home Model 69,Cook-Price,263.1
+P00144,C005,Books Model 29,"Smith, Watson and Holmes",27.08
+P00145,C004,Home Model 4,Morris LLC,141.93
+P00146,C004,Home Model 93,Nixon-King,63.04
+P00147,C002,Clothing Model 80,Webb-O'Sullivan,62.25
+P00148,C005,Books Model 73,Brady-Owen,34.57
+P00149,C004,Home Model 18,"Burke, Phillips and Gardner",292.96
+P00150,C003,Sports Model 49,Sullivan Group,93.79
+P00151,C003,Sports Model 98,Fraser-Webster,226.03
+P00152,C004,Home Model 33,"Parker, Reeves and Williams",290.84
+P00153,C005,Books Model 7,Mitchell Inc,51.41
+P00154,C001,Electronics Model 100,"Wright, Hill and Herbert",637.41
+P00155,C001,Electronics Model 32,Harding-Perkins,165.26
+P00156,C002,Clothing Model 31,"Crawford, Clarke and Kent",21.13
+P00157,C005,Books Model 28,"Thomas, Brown and Woodward",25.96
+P00158,C003,Sports Model 22,Harris-Gibbons,170.85
+P00159,C001,Electronics Model 100,Nicholson-Watts,604.96
+P00160,C001,Electronics Model 75,Taylor-Morris,59.12
+P00161,C004,Home Model 51,"Clark, Bond and Howe",318.15
+P00162,C005,Books Model 89,Smith and Sons,42.96
+P00163,C003,Sports Model 88,"Hughes, Mitchell and Carter",155.79
+P00164,C005,Books Model 6,Jones Ltd,20.82
+P00165,C003,Sports Model 9,Hall-Thomas,136.3
+P00166,C004,Home Model 63,Richards PLC,44.93
+P00167,C004,Home Model 91,"Riley, Storey and Jones",57.22
+P00168,C005,Books Model 84,Robinson-Short,17.8
+P00169,C005,Books Model 100,Barry-John,27.31
+P00170,C005,Books Model 35,Davies-Barnett,19.27
+P00171,C001,Electronics Model 36,"Cooper, Smith and Barton",602.91
+P00172,C004,Home Model 73,Bell LLC,212.5
+P00173,C001,Electronics Model 64,Graham-Mills,579.69
+P00174,C002,Clothing Model 46,Evans and Sons,83.69
+P00175,C005,Books Model 90,Nash LLC,46.73
+P00176,C005,Books Model 25,"Vaughan, Law and Thompson",8.63
+P00177,C004,Home Model 72,Morgan PLC,270.59
+P00178,C004,Home Model 58,Cooke-O'Connor,266.09
+P00179,C002,Clothing Model 52,Morgan-Warren,73.46
+P00180,C005,Books Model 48,Naylor-Webb,27.08
+P00181,C004,Home Model 96,Holden Inc,191.78
+P00182,C004,Home Model 35,Manning-Knight,108.53
+P00183,C002,Clothing Model 41,Newton Inc,20.21
+P00184,C002,Clothing Model 25,Booth-Khan,29.36
+P00185,C005,Books Model 98,Lee PLC,28.82
+P00186,C001,Electronics Model 25,Parker Group,233.5
+P00187,C003,Sports Model 2,Mistry PLC,181.56
+P00188,C001,Electronics Model 7,"Parsons, Tyler and Kay",412.55
+P00189,C002,Clothing Model 82,"Naylor, Black and Jones",91.73
+P00190,C001,Electronics Model 74,Pearson-Ward,228.54
+P00191,C003,Sports Model 24,Burke Ltd,246.2
+P00192,C004,Home Model 15,Edwards Group,284.48
+P00193,C001,Electronics Model 74,Young LLC,433.93
+P00194,C002,Clothing Model 73,"Bates, Evans and Porter",95.4
+P00195,C002,Clothing Model 16,Ball-Reid,61.59
+P00196,C005,Books Model 80,Owen-Roberts,15.18
+P00197,C004,Home Model 57,Kaur LLC,109.33
+P00198,C004,Home Model 40,"Williams, Williams and Wood",192.05
+P00199,C001,Electronics Model 98,Tucker Ltd,173.91
+P00200,C001,Electronics Model 21,"Walsh, Holland and Baker",201.05
+P00201,C002,Clothing Model 1,"Owen, Cooper and Swift",48.7
+P00202,C004,Home Model 38,Allen PLC,17.7
+P00203,C003,Sports Model 90,Hunt Inc,216.49
+P00204,C002,Clothing Model 34,"Hardy, Russell and Campbell",85.15
+P00205,C002,Clothing Model 55,Davis Group,19.15
+P00206,C002,Clothing Model 35,King-Ellis,84.05
+P00207,C002,Clothing Model 40,"Wilson, Robinson and James",67.77
+P00208,C003,Sports Model 57,"Connolly, Roberts and Fisher",44.71
+P00209,C004,Home Model 35,West-Ford,177.54
+P00210,C001,Electronics Model 77,"Ward, Shaw and Porter",69.04
+P00211,C003,Sports Model 78,Holden PLC,72.05
+P00212,C005,Books Model 76,"Wilson, May and Reynolds",52.33
+P00213,C003,Sports Model 74,"Robertson, Johnson and Flynn",23.62
+P00214,C004,Home Model 67,"Thomas, Taylor and Francis",238.68
+P00215,C002,Clothing Model 75,"Kaur, Graham and Atkins",52.0
+P00216,C001,Electronics Model 61,"Howard, Williams and Jones",266.03
+P00217,C001,Electronics Model 21,"Newton, Scott and Ward",263.7
+P00218,C003,Sports Model 85,Newton Group,255.17
+P00219,C005,Books Model 5,"Fletcher, Hunt and Poole",25.63
+P00220,C003,Sports Model 15,Turner-Jones,251.17
+P00221,C005,Books Model 1,"Murphy, Smith and Jackson",35.97
+P00222,C004,Home Model 7,"Davies, Hussain and Bailey",69.95
+P00223,C004,Home Model 81,Thomas-Bentley,150.64
+P00224,C003,Sports Model 71,"Price, Walton and Mason",44.57
+P00225,C004,Home Model 16,Mitchell-Ryan,17.03
+P00226,C002,Clothing Model 91,Edwards Group,23.98
+P00227,C005,Books Model 53,"Newton, Leach and Richards",9.25
+P00228,C001,Electronics Model 60,Jones-Brown,671.23
+P00229,C002,Clothing Model 64,"Carr, Johnson and Anderson",95.91
+P00230,C003,Sports Model 54,"Atkinson, Russell and Palmer",230.59
+P00231,C002,Clothing Model 59,Sinclair-Hayes,60.74
+P00232,C005,Books Model 66,"Wood, Cole and Joyce",38.61
+P00233,C001,Electronics Model 36,Nicholls PLC,567.08
+P00234,C003,Sports Model 65,Andrews LLC,75.35
+P00235,C003,Sports Model 76,"Cole, Saunders and Stone",159.35
+P00236,C002,Clothing Model 58,Summers-Watson,59.31
+P00237,C005,Books Model 98,"Hooper, Bennett and Lynch",30.22
+P00238,C003,Sports Model 25,"Dixon, Griffiths and Cox",249.54
+P00239,C004,Home Model 30,"Wilson, Barnes and Spencer",296.23
+P00240,C003,Sports Model 96,Burgess PLC,135.71
+P00241,C004,Home Model 50,Davey LLC,354.11
+P00242,C002,Clothing Model 64,Riley and Sons,97.26
+P00243,C005,Books Model 43,McDonald Inc,47.68
+P00244,C004,Home Model 13,Hawkins-Bailey,185.53
+P00245,C002,Clothing Model 53,Barton Group,96.37
+P00246,C001,Electronics Model 61,Brooks-Edwards,540.44
+P00247,C005,Books Model 89,Jarvis Ltd,22.39
+P00248,C003,Sports Model 87,King-Gallagher,223.41
+P00249,C003,Sports Model 81,Smith and Sons,196.21
+P00250,C005,Books Model 5,"Allen, Smith and Evans",33.0
