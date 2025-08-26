@@ -10,8 +10,8 @@ def unify(df_es: pd.DataFrame, df_uk: pd.DataFrame) -> pd.DataFrame:
     check_required_columns(df_uk,["code","category_code","name","supplier","unit_price"], "UK")
 
     # rename
-    df_es = df_es.rename(columns={"codigo":"product_code","codigo_categoria":"category_code","nombre":"product_name_es","proveedor":"supplier_es","precio_unitario":"unit_price_es"})
-    df_uk = df_uk.rename(columns={"code":"product_code","name":"product_name_uk","supplier":"supplier_uk","unit_price":"unit_price_uk"})
+    df_es = df_es.rename(columns={"codigo":"product_code","codigo_categoria":"category_code_es","nombre":"product_name_es","proveedor":"supplier_es","precio_unitario":"unit_price_es"})
+    df_uk = df_uk.rename(columns={"code":"product_code","category_code":"category_code_uk","name":"product_name_uk","supplier":"supplier_uk","unit_price":"unit_price_uk"})
 
     # format
     check_products_code_format(df_es, "product_code","ES")
