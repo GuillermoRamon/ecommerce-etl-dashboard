@@ -1,0 +1,9 @@
+inputs:
+  customers_parquet: "data/intermediate/unified/customers.parquet"
+  categories_parquet: "data/intermediate/unified/categories.parquet"
+  products_parquet: "data/intermediate/unified/products.parquet"
+
+outputs:
+  dim_customer_parquet: "data/processed/gold/dim_customer"
+  dim_category_parquet: "data/processed/gold/dim_category"
+  dim_product_parquet: "data/processed/gold/dim_product"
