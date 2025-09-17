@@ -2,8 +2,13 @@ inputs:
   customers_parquet: "data/intermediate/unified/customers.parquet"
   categories_parquet: "data/intermediate/unified/categories.parquet"
   products_parquet: "data/intermediate/unified/products.parquet"
+  orders_parquet: "data/intermediate/unified/orders.parquet"
 
 outputs:
   dim_customer_parquet: "data/processed/gold/dim_customer"
   dim_category_parquet: "data/processed/gold/dim_category"
   dim_product_parquet: "data/processed/gold/dim_product"
+  dim_date_parquet: "data/processed/gold/dim_date"
+  dim_shipping_method_parquet: "data/processed/gold/dim_shipping_method"
+  dim_payment_type_parquet: "data/processed/gold/dim_payment_type"
+  dim_order_status_parquet: "data/processed/gold/dim_order_status"

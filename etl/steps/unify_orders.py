@@ -22,7 +22,7 @@ def run (input_es: str | Path, input_uk: str | Path, out_path: str | Path) -> di
     df_unified = unify(df_es,df_uk)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    df_unified.to_parquet(out_path, index=False)
+    df_unified.to_parquet(out_path, index=False, engine="pyarrow",coerce_timestamps="us",allow_truncated_timestamps=True)
 
     return {
         "rows": int(df_unified.shape[0]),

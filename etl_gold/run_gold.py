@@ -6,7 +6,11 @@ from pyspark.sql import SparkSession
 STEPS = [
     "etl_gold.steps.build_dim_customer",
     "etl_gold.steps.build_dim_category",
-    "etl_gold.steps.build_dim_product"
+    "etl_gold.steps.build_dim_product",
+    "etl_gold.steps.build_dim_date",
+    "etl_gold.steps.build_dim_shipping_method",
+    "etl_gold.steps.build_dim_payment_type",
+    "etl_gold.steps.build_dim_order_status"
 ]
 
 def build_spark(app_name: str = "ecommerce-gold"):
