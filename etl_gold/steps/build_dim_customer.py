@@ -1,4 +1,3 @@
-from pyspark.sql import functions as F 
 from etl_gold.core.utils_dimensions import create_dimension,write_dimension
 
 def run(spark, cfg):

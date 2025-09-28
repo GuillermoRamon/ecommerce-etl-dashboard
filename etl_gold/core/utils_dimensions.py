@@ -94,3 +94,31 @@ def ref_by_code(business_key, surrogate_col, df, ref_df):
     )
 
     return df_dim
+
+def apply_ref_mapping(
+    df: DataFrame,
+    src_col: str,
+    ref_df: DataFrame,
+    alias_ref: str,
+    code_ref: str,
+    out_code: str):
+    
+    df_norm = df.withColumn("src_norm", F.lower(F.trim(F.col(src_col))))
+
+    ref_exploded = (
+        ref_df
+        .select(F.col(code_ref).alias(out_code),
+                F.explode(F.col(alias_ref)).alias("alias"))
+        .withColumn("alias_norm", F.lower(F.trim(F.col("alias"))))
+        .select(out_code, "alias_norm")
+    )
+
+    mapped = (
+        df_norm
+        .join(F.broadcast(ref_exploded),
+              df_norm["src_norm"] == ref_exploded["alias_norm"],
+              "left")
+        .drop("src_norm", "alias_norm")
+    )
+
+    return mapped

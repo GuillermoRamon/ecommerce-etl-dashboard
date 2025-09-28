@@ -10,7 +10,10 @@ STEPS = [
     "etl_gold.steps.build_dim_date",
     "etl_gold.steps.build_dim_shipping_method",
     "etl_gold.steps.build_dim_payment_type",
-    "etl_gold.steps.build_dim_order_status"
+    "etl_gold.steps.build_dim_order_status",
+    "etl_gold.steps.build_dim_geo",
+    "etl_gold.steps.build_fact_order_item",
+
 ]
 
 def build_spark(app_name: str = "ecommerce-gold"):
