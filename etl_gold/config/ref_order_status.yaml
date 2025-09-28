@@ -1,0 +1,10 @@
+order_status:
+  - code: 0
+    name: Delivered
+    normalize: ["delivered", "entregado"]
+  - code: 1
+    name: Shipped
+    normalize: ["shipped", "enviado"]
+  - code: 2
+    name: Pending
+    normalize: ["pending", "pendiente"]

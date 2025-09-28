@@ -1,0 +1,10 @@
+payment_type:
+  - code: "CC"
+    name: Credit Card
+    normalize: ["tarjeta", "card", "credit card", "tarjeta de credito"]
+  - code: "TR"
+    name: Bank Transfer
+    normalize: ["transferencia", "bank transfer"]
+  - code: "COD"
+    name: Cash on Delivery
+    normalize: ["contra reembolso", "cash on delivery"]

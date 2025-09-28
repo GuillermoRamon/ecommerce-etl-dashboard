@@ -1,0 +1,21 @@
+shipping_methods:
+  - code: SM001
+    name: Standard
+    description: "Standard delivery 3–5 days"
+    is_expedited: 0
+    sla_min_days: 3
+    sla_max_days: 5
+
+  - code: SM002
+    name: Express
+    description: "Fast delivery 1–2 days"
+    is_expedited: 1
+    sla_min_days: 1
+    sla_max_days: 2
+
+  - code: SM003
+    name: Pickup
+    description: "Pick up at store or collection point"
+    is_expedited: 0
+    sla_min_days: 0
+    sla_max_days: 0

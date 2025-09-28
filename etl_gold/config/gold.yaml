@@ -1,0 +1,19 @@
+inputs:
+  customers_parquet: "data/intermediate/unified/customers.parquet"
+  categories_parquet: "data/intermediate/unified/categories.parquet"
+  products_parquet: "data/intermediate/unified/products.parquet"
+  orders_parquet: "data/intermediate/unified/orders.parquet"
+  order_items_parquet: "data/intermediate/unified/order_items.parquet"
+  ref_payment_type_yaml: ref_payment_type.yaml
+  ref_order_status_yaml: ref_order_status.yaml
+
+outputs:
+  dim_customer_parquet: "data/processed/gold/dim_customer"
+  dim_category_parquet: "data/processed/gold/dim_category"
+  dim_product_parquet: "data/processed/gold/dim_product"
+  dim_date_parquet: "data/processed/gold/dim_date"
+  dim_shipping_method_parquet: "data/processed/gold/dim_shipping_method"
+  dim_payment_type_parquet: "data/processed/gold/dim_payment_type"
+  dim_order_status_parquet: "data/processed/gold/dim_order_status"
+  dim_geo_parquet: "data/processed/gold/dim_geo"
+  fact_order_item_parquet: "data/processed/gold/fact_order_item"
